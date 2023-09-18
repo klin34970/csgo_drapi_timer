@@ -1,0 +1,24 @@
+//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+{
+
+	"Hide Enabled"
+	{
+		"en"			"[{GREEN}TIMER{NORMAL}] Other players are now {RED}hidden{NORMAL}, type {RED}!unhide{NORMAL} to {RED}show{NORMAL} players again."
+		"ru"			"[{GREEN}TIMER{NORMAL}] Все игроки были {RED}скрыты{NORMAL}, используйте {RED}!hide{NORMAL} что бы отключить {RED}маскировку{NORMAL}."
+	}
+	
+	"Hide Disabled"
+	{
+		"en"			"[{GREEN}TIMER{NORMAL}] Other players are now {RED}visible{NORMAL}."
+		"ru"			"[{GREEN}TIMER{NORMAL}] Все игроки снова {RED}видны{NORMAL}."
+	}
+}
+

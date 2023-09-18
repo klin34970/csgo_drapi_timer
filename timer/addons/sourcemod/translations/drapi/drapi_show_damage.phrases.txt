@@ -1,0 +1,96 @@
+//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+
+	"Show damage menu settings"
+	{
+		"en"			"Menu: Show Damage"
+	}
+	"Show damage menu settings message"
+	{
+		"#format"		"{1:s}"
+		"en"			"Show Damage: {1}"
+	}
+	"Head"
+	{
+        "ru"			"Голова"
+	}
+	"Chest"
+	{
+       	"ru"			"Грудь"
+	}
+	"Stomach"
+	{
+       	"ru"			"Живот"
+	}
+	"Left arm"
+	{
+       	"ru"			"Левая рука"
+	}
+	"Right arm"
+	{
+       	"ru"			"Правая рука"
+	}
+	"Left leg"
+	{
+       	"ru"			"Левая нога"
+	}
+	"Right leg"
+	{
+      	"ru"			"Правая нога"
+	}
+	"Enabled"
+	{
+      	"ru"			"Включено"
+	}
+	"Disabled"
+	{
+      	"ru"			"Отключено"
+	}
+	"ShowDamage_TITLE"
+	{
+      	"en"			"Menu: Show Damage"
+	}
+	"ShowDamage_HUD_MENU_TITLE"
+	{
+		"#format"		"{1:s}"
+      	"en"			"Show Damage: {1}"
+
+	}
+	"Show damage hit message body"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+       	"ru"			"<font color='#993300'>{1}</font>. \nУрон: <font color='#336600'>-{2}</font> | Броня: <font color='#0066CC'>-{3}</font>"
+	}
+	"Show damage hit message"
+	{
+		"#format"		"{1:i},{2:i}"
+       	"ru"			"Урон: <font color='#336600'>-{1}</font> | Броня: <font color='#0066CC'>-{2}</font>"
+	}	
+
+	"Show damage inferno"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+       	"ru"			"Весь урон с <font color='#993300'>molotov</font>. \nЖертв: <font color='#800000'>{1}</font> \nУрон: <font color='#336600'>-{2}</font> | Броня: <font color='#0066CC'>-{3}</font>"
+	}
+
+	"Show damage hegrenade"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+       	"ru"			"Весь урон с <font color='#993300'>hegrenade</font>. \nЖертв: <font color='#800000'>{1}</font> \nУрон: <font color='#336600'>-{2}</font> | Броня: <font color='#0066CC'>-{3}</font>"
+	}
+	"Show damage multiple"
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:i}"
+       	"ru"			"Весь урон с <font color='#993300'>{1}</font>. \nЖертв: <font color='#800000'>{2}</font> \nУрон: <font color='#336600'>-{3}</font> | Броня: <font color='#0066CC'>-{4}</font>"
+	}
+}
+

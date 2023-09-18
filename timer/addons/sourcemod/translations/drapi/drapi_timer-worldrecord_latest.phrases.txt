@@ -1,0 +1,88 @@
+//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREru}, {LIGHTGREru}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+	"LatestMenuTitle"
+	{
+		"ru"			"Меню: Последние рекорды"
+		"en"			"Menu: latest"
+	}
+	"Any"
+	{
+		"ru"			"Любые"
+		"fr"			"Quelconque"
+	}
+	"Top10"
+	{
+		"ru"			"ТОП-10"
+		"fr"			"Top10"
+	}
+	"World"
+	{
+		"ru"			"Мировой"
+		"fr"			"Mondiaux"
+	}
+	"Latest Top 10 Records"
+	{
+		"ru"			"Меню: ТОП-10 Рекордов"
+		"fr"			"Mruu Top 10 des records"
+	}
+	"Latest World Records"
+	{
+		"ru"			"Меню: Мировые рекорды"
+		"fr"			"Mruu: Records du monde"
+	}
+	"Latest Records"
+	{
+		"ru"			"Меню: Последние рекорды"
+		"fr"			"Mruu: Derniers records"
+	}
+	"No records available"
+	{
+		"ru"			"No records available"
+		"fr"			"Aucun record valable"
+	}
+	"Details"
+	{
+		"ru"			"Детали"
+		"fr"			"Détails"
+	}
+	"Map"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Карта: {1}"
+		"fr"			"Carte: {1}"
+	}
+	"Style"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Стиль: {1}"
+		"fr"			"Style: {1}"
+	}
+	"Name"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"Имя: {1} [{2}]"
+		"fr"			"Nom: {1} [{2}]"
+	}
+	"Time"
+	{
+		"#format"		"{1:s},{2:i}"
+		"ru"			"Время: {1} (#{2})"
+		"fr"			"Temps: {1} (#{2})"
+	}
+	"Date"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Дата: {1}"
+		"fr"			"Date: {1}"
+	}
+}
+
